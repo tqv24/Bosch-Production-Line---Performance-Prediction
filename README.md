@@ -36,3 +36,6 @@ The test data is loaded and preprocessed, ensuring consistency with the training
 
 * Test Data Prediction and Submission:
 Predictions are made on the test data, and a submission file is created.
+
+### Data set: 
+https://www.kaggle.com/competitions/bosch-production-line-performance/overview
